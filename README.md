@@ -38,6 +38,13 @@ O desafio consiste em criar um programa em NodeJS, para ler o arquivo XML dado d
       <category>Children</category>
     </book>
     <book>
+      <title lang="en">Harry Potter: The Goblet of Fire</title>
+      <author>J K. Rowling</author>
+      <year>2000</year>
+      <price>19.99</price>
+      <category>Children</category>
+    </book>
+    <book>
       <title lang="en">Harry Potter: The Chamber of Secrets</title>
       <author>J K. Rowling</author>
       <year>1998</year>
@@ -52,13 +59,6 @@ O desafio consiste em criar um programa em NodeJS, para ler o arquivo XML dado d
       <category>Children</category>
     </book>
     <book>
-      <title lang="en">Harry Potter: The Goblet of Fire</title>
-      <author>J K. Rowling</author>
-      <year>2000</year>
-      <price>19.99</price>
-      <category>Children</category>
-    </book>
-    <book>
       <title lang="en">Harry Potter: The Order of the Phoenix</title>
       <author>J K. Rowling</author>
       <year>2003</year>
@@ -66,17 +66,17 @@ O desafio consiste em criar um programa em NodeJS, para ler o arquivo XML dado d
       <category>Children</category>
     </book>
     <book>
-      <title lang="en">Harry Potter: The Half-Blood Prince</title>
-      <author>J K. Rowling</author>
-      <year>2005</year>
-      <price>26.00</price>
-      <category>Children</category>
-    </book>
-    <book>
       <title lang="en">Harry Potter: The Deathly Hallows</title>
       <author>J K. Rowling</author>
       <year>2007</year>
       <price>29.99</price>
+      <category>Children</category>
+    </book>
+    <book>
+      <title lang="en">Harry Potter: The Half-Blood Prince</title>
+      <author>J K. Rowling</author>
+      <year>2005</year>
+      <price>26.00</price>
       <category>Children</category>
     </book>
     <book>
@@ -129,6 +129,7 @@ O desafio consiste em criar um programa em NodeJS, para ler o arquivo XML dado d
  - Gestão de dependências via gerenciador de pacote
  - Uma outra pessoa estará lendo o que você fez, portanto, lembre-se de buscar trazer a semântica do problema no seu código
  - Garanta a qualidade do seu código
+ - Seja criativo
  - Prazo de 5 (cinco) dias corridos
 
 
